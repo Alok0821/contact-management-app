@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.header h2{
+  font-weight: 500;
+  font-size: larger;
+  border: 2px solid;
+  background-color: cadetblue;
+  color: black;
+  text-align: center;
+  margin-left: 33%;
+  margin-right: 23%;
+}
+.addcontact-container h3{
+  font-weight: bold;
+  font-size: large;
+}
+
+.addcontact-container{
+  margin-top: 30 px;
+  margin-left: 37%;
+}
+
+.contact-list-container{
+  margin-left: 33%;
+  margin-right: 37%;
+  padding: 4%;
+}
+.app-container{
+  background-image: url(/src/Images/pxfuel5.jpg);
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  padding-top: 4%;
+  border-radius: 6%;
+  padding-bottom: 4%;
+  opacity: 0.5;
+}
+
+.Table-container{
+  margin-left:-35%;
+}
+
+.Contact-list-headline{
+  margin-left:-35%;
+
+}
+body{
+  background-image: url(/src/Images/peakpx\ \(1\).jpg);
+}
+
+.addcontact-container span{
+  color: yellowgreen;
+}
